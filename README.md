@@ -69,9 +69,9 @@ pip install numpy sympy pandas matplotlib
 
 ##  Usage
 
-python mandelbrot.py
-python markov_chain.py
-python taylor.py
+- python mandelbrot.py
+- python markov_chain.py
+- python taylor.py
 
 
 
