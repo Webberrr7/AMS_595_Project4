@@ -64,6 +64,7 @@ Install dependencies:
 ```bash
 pip install numpy sympy pandas matplotlib
 
+```
 ---
 
 ##  Usage
